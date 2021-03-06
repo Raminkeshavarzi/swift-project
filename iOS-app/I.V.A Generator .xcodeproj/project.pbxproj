@@ -16,7 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		F58CC6A725F1744D0053B0A4 /* iOS-app.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "iOS-app.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		F58CC6A725F1744D0053B0A4 /* I.V.A Generator .app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "I.V.A Generator .app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		F58CC6AA25F1744D0053B0A4 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		F58CC6AC25F1744D0053B0A4 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
 		F58CC6AE25F1744D0053B0A4 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -48,7 +48,7 @@
 		F58CC6A825F1744D0053B0A4 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				F58CC6A725F1744D0053B0A4 /* iOS-app.app */,
+				F58CC6A725F1744D0053B0A4 /* I.V.A Generator .app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -70,9 +70,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		F58CC6A625F1744D0053B0A4 /* iOS-app */ = {
+		F58CC6A625F1744D0053B0A4 /* I.V.A Generator  */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = F58CC6BB25F1744E0053B0A4 /* Build configuration list for PBXNativeTarget "iOS-app" */;
+			buildConfigurationList = F58CC6BB25F1744E0053B0A4 /* Build configuration list for PBXNativeTarget "I.V.A Generator " */;
 			buildPhases = (
 				F58CC6A325F1744D0053B0A4 /* Sources */,
 				F58CC6A425F1744D0053B0A4 /* Frameworks */,
@@ -82,9 +82,9 @@
 			);
 			dependencies = (
 			);
-			name = "iOS-app";
+			name = "I.V.A Generator ";
 			productName = "iOS-app";
-			productReference = F58CC6A725F1744D0053B0A4 /* iOS-app.app */;
+			productReference = F58CC6A725F1744D0053B0A4 /* I.V.A Generator .app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -101,7 +101,7 @@
 					};
 				};
 			};
-			buildConfigurationList = F58CC6A225F1744D0053B0A4 /* Build configuration list for PBXProject "iOS-app" */;
+			buildConfigurationList = F58CC6A225F1744D0053B0A4 /* Build configuration list for PBXProject "I.V.A Generator " */;
 			compatibilityVersion = "Xcode 9.3";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -114,7 +114,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				F58CC6A625F1744D0053B0A4 /* iOS-app */,
+				F58CC6A625F1744D0053B0A4 /* I.V.A Generator  */,
 			);
 		};
 /* End PBXProject section */
@@ -293,6 +293,7 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
+				MARKETING_VERSION = 1.0.1;
 				PRODUCT_BUNDLE_IDENTIFIER = "ramin.iOS-app";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
@@ -312,6 +313,7 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
+				MARKETING_VERSION = 1.0.1;
 				PRODUCT_BUNDLE_IDENTIFIER = "ramin.iOS-app";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
@@ -322,7 +324,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		F58CC6A225F1744D0053B0A4 /* Build configuration list for PBXProject "iOS-app" */ = {
+		F58CC6A225F1744D0053B0A4 /* Build configuration list for PBXProject "I.V.A Generator " */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				F58CC6B925F1744E0053B0A4 /* Debug */,
@@ -331,7 +333,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		F58CC6BB25F1744E0053B0A4 /* Build configuration list for PBXNativeTarget "iOS-app" */ = {
+		F58CC6BB25F1744E0053B0A4 /* Build configuration list for PBXNativeTarget "I.V.A Generator " */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				F58CC6BC25F1744E0053B0A4 /* Debug */,
